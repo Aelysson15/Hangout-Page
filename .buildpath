@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="src"/>
+	<buildpathentry kind="src" path="vendor/doctrine/common/bin"/>
+	<buildpathentry kind="src" path="vendor/doctrine/common/lib/Doctrine/Common"/>
+	<buildpathentry kind="src" path="vendor/doctrine/common/tests"/>
+	<buildpathentry kind="src" path="vendor/pimple/pimple/lib"/>
+	<buildpathentry kind="src" path="vendor/pimple/pimple/tests"/>
+	<buildpathentry kind="src" path="vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher"/>
+	<buildpathentry kind="src" path="vendor/symfony/http-foundation/Symfony/Component/HttpFoundation"/>
+	<buildpathentry kind="src" path="vendor/symfony/http-kernel/Symfony/Component/HttpKernel"/>
+	<buildpathentry kind="src" path="vendor/symfony/routing/Symfony/Component/Routing"/>
+	<buildpathentry kind="src" path="vendor/twig/twig/bin"/>
+	<buildpathentry kind="src" path="vendor/twig/twig/lib/Twig"/>
+	<buildpathentry kind="src" path="vendor/twig/twig/test"/>
+	<buildpathentry kind="src" path="web"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+</buildpath>

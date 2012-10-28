@@ -1,0 +1,10 @@
+{
+    "minimum-stability" : "stable",
+    "require"           : {
+        "silex/silex"     : "1.*@dev",
+        "twig/twig"       : "1.*"
+    },
+    "autoload"          : {
+        "psr-0": { "Repository": "src/"}
+    }
+}

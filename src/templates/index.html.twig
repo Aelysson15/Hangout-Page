@@ -1,0 +1,20 @@
+{% extends 'layout.html.twig' %}
+
+{% block container_content %}
+
+<div class="well-large pull-left" style="width: 640px">
+<h2>Ao Vivo</h2>
+<iframe width="640" height="360" src="http://www.youtube.com/embed/3daPo6BVY9w" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="well-large pull-left" style="width: 350px;margin-left:20px">
+<h2>Participe</h2>
+
+<a class="twitter-timeline" href="https://twitter.com/search?q=%23phppb" data-widget-id="262161551908278274">Tweets about "#phppb"</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+</div>
+
+<div class="clearfix"></div>
+
+{% endblock %}
